@@ -1,0 +1,116 @@
+.main-color{
+	color:#0a85cc;
+}
+
+.highlight{
+	background-color:#0a85cc;
+	color:white;
+	padding:2px;
+}
+
+.highlight2{
+	background-color:#333333;
+	color:white;
+	padding:2px;
+}
+
+ul.checklist{
+	list-style-image: url('images/check.png');
+	list-style-type:none;
+	padding:8px 0px 8px 36px;
+}
+
+ul.starlist{
+	list-style-image: url('images/star.png');
+	list-style-type:none;
+	padding:8px 0px 8px 36px;
+}
+
+ul.arrowlist{
+	list-style-image: url('images/arrow.png');
+	list-style-type:none;
+	padding:8px 0px 8px 36px;
+}
+
+a.small-button,.small-button{
+	padding:6px 12px;
+	display:inline-block;
+	cursor:pointer;
+	margin-right:12px;
+	border-radius:3px;
+	margin-bottom:12px;
+	background-color:#4d4d4d;
+	color:white;
+	box-shadow:0 0 0 3px #e6e6e6;
+}
+
+
+a.curver-button,.curver-button{
+	padding:6px 12px;
+	display:inline-block;
+	cursor:pointer;
+	border-radius:16px;
+	margin-right:12px;
+	margin-bottom:12px;
+	background-color:#4d4d4d;
+	color:white;
+	box-shadow:0 0 0 3px #e6e6e6;
+}
+
+a.big-button ,.big-button{
+	padding:8px 22px;
+	display:inline-block;
+	cursor:pointer;
+	margin-right:12px;
+	border-radius:5px;
+	margin-bottom:12px;
+	background-color:#4d4d4d;
+	color:white;
+	box-shadow:0 0 0 3px #e6e6e6;
+}
+
+
+blockquote{
+	margin:0px 0px 12px 0px;
+	padding:12px 24px 0px 24px;
+	color:#808080;
+	background-color:#fafafa;
+	border-left:2px solid #666666;
+}
+
+
+.general_msg{
+	padding:10px 12px 8px 12px;
+	margin-bottom:24px;
+	background-color:white;
+	border:1px solid #cccccc;
+	color:#808080;
+	border-radius:3px;
+}
+
+.error_msg{
+	padding:10px 12px 8px 12px;
+	margin-bottom:24px;
+	background-color:#ffdbdb;
+	border:1px solid #e58a8a;
+	color:#e55c5c;
+	border-radius:3px;
+}
+
+.alert_msg{
+	padding:10px 12px 8px 12px;
+	margin-bottom:24px;
+	background-color:#fffef2;
+	border:1px solid #cccb7a;
+	color:#b3b000;
+	border-radius:3px;
+}
+
+.success_msg{
+	padding:10px 12px 8px 12px;
+	margin-bottom:24px;
+	background-color:#e9ffe5;
+	border:1px solid #74cc66;
+	color:#16a600;
+	border-radius:3px;
+}

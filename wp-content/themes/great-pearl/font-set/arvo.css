@@ -1,0 +1,526 @@
+#body{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+/* header */
+#logo-text{
+	font-size:36px;
+	line-height:36px;
+	font-weight:bold;
+	font-family:"Arvo",Arial !important;
+}
+
+#main-menu ul li a{
+	font-family:'Karla',Arial !important;
+	font-size:13px;
+	line-height:18px;
+}
+
+#main-menu ul li li a, #main-menu ul li.current-menu-item li a, #main-menu ul li.current-menu-ancestor li a{
+	font-size:12px;
+	font-family:'Karla',Arial !important;
+	line-height:18px;
+}
+
+/* static content */
+.static-content-container,.flex-caption {
+	font-family:'Karla',Arial !important;
+	font-size:13px;
+	line-height:18px;
+}
+
+.static-content{
+	padding-top:0px;
+}
+
+.static-content-container ul a{
+	font-family:'Karla',Arial !important;
+}
+
+.static-content-container h1 ,.flex-caption h1{
+	font-family:"Arvo",Arial !important;
+	font-size: 36px;
+	line-height:40px;
+}
+
+.static-content-container h2 ,.flex-caption h2{
+	font-family:"Arvo",Arial !important;
+	font-size: 30px;
+	line-height:36px;
+}
+
+.static-content-container h3 ,.flex-caption  h3{
+	font-family:"Arvo",Arial !important;
+	font-size: 24px;
+	line-height:30px;
+}
+
+.static-content-container h4 ,.flex-caption h4{
+	font-family:"Arvo",Arial !important;
+	font-size: 18px;
+	line-height:24px;
+}
+
+.static-content-container h5 ,.flex-caption h5{
+	font-family:"Arvo",Arial !important;
+	font-size: 14px;
+	line-height:18px;
+}
+
+.static-content-container h6 ,.flex-caption h6{
+	font-family:"Arvo",Arial !important;
+	font-size: 12px;
+	line-height:14px;
+}
+
+/* body */
+
+/* index page */
+.container-title span,.container-title a{
+	font-family:'Karla',Arial !important;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+
+.feature-name,.feature-name a{
+	font-family:"Arvo",Arial !important;
+	font-size:16px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+.feature-description{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+
+.post-title a{
+	font-family:"Arvo",Arial !important;
+	line-height:24px;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.post-excerpt{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+
+/* typography */
+
+.welcome-text1{
+	font-family:"Arvo",Arial !important;
+	font-size:24px;
+	line-height:36px;
+	font-weight:bold;
+}
+
+.welcome-text2{
+	font-family:'Karla',Arial !important;
+	font-size:14px;
+	line-height:18px;
+}
+
+h1{
+	font-family:"Arvo",Arial !important;
+	font-size: 36px;
+	line-height:48px;
+	font-weight:bold;
+}
+
+h2{
+	font-family:"Arvo",Arial !important;
+	font-size: 30px;
+	line-height:36px;
+	font-weight:bold;
+}
+
+h3{
+	font-family:"Arvo",Arial !important;
+	font-size: 24px;
+	line-height:30px;
+	font-weight:bold;
+}
+
+h4{
+	font-family:"Arvo",Arial !important;
+	font-size: 18px;
+	line-height:24px;
+	font-weight:bold;
+}
+
+h5{
+	font-family:"Arvo",Arial !important;
+	font-size: 14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+h6{
+	font-family:"Arvo",Arial !important;
+	font-size: 12px;
+	line-height:16px;
+	font-weight:bold;
+}
+
+blockquote{
+	font-family:"Arvo",Arial !important;
+}
+
+
+.content li a{
+	font-family:'Karla',Arial !important;
+}
+
+/* inner page */
+h2#page-title{
+	font-family:"Arvo",Arial !important;
+	font-size:24px;
+	line-height:30px;
+	font-weight:bold;
+}
+
+h3#page-title-sub{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+	font-weight:normal;
+}
+
+.paginate .current{
+	font-family:'Karla',Arial !important;
+	font-size:13px;
+}
+
+.paginate a{
+	font-family:'Karla',Arial !important;
+	font-size:13px;
+}
+
+/* about page */
+.user_profile_name{
+	font-family:"Arvo",Arial !important;
+	font-size:18px;
+	line-height:24px;
+	font-weight:bold;	
+}
+
+.user_profile_title{
+	font-family:"Arvo",Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+.user_profile p{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+
+/* blog page */
+
+.post-entry-title a{
+	font-family:"Arvo",Arial !important;
+	font-size:18px;
+	line-height:24px;
+	font-weight:bold;
+}
+
+.post-entry-content{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+.post-meta-entry {
+	font-family:'Arvo',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+.post-meta-entry a{
+	font-family:'Arvo',Arial !important;
+	font-size:12px;
+	line-height:18px;
+	font-weight:normal;
+}
+
+.post-entry-button a{
+	font-family:'Arvo',Arial !important;
+	line-height:18px;
+	font-size:14px;
+}
+
+/* post list */
+.post-list-title a{
+	font-family:'Arvo',Arial !important;
+	line-height:24px;
+	font-size:16px;
+	font-weight:bold;
+}
+	
+/* project page */
+.project-cell-title{
+	font-family:"Arvo",Arial !important;
+	font-size:16px;
+	line-height:24px;
+	font-weight:bold;
+}
+	
+/* comment section */
+#body .comment-info .fn{
+	font-family:"Arvo",Arial !important;
+	font-size:16px;
+	line-height:24px;
+	font-weight:bold;
+}
+
+#body .comment-info .fn a{
+	font-family:"Arvo",Arial !important;
+	font-size:16px;
+	line-height:24px;
+	font-weight:bold;
+}
+
+#body .comment-info  .comment-date a{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+.comment-content{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+#body .comment-reply a{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+.comment-notes{
+	font-size:12px;
+	font-family:'Karla',Arial !important;
+	line-height:18px;
+}
+	
+.comment-form-author label , .comment-form-email label , .comment-form-url label , .comment-form-subject label{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+.comment-form-author input , .comment-form-email input , .comment-form-url input , .comment-form-subject input{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+.comment-form-comment textarea{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+/* accordion */
+.accor-title{
+	font-size:14px;
+	line-height:18px;
+	font-family:"Arvo",Arial !important;
+}
+
+.accor-content{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+/* tabs */
+.tab-title{
+	font-size:14px;
+	line-height:18px;
+	font-family:"Arvo",Arial !important;
+}
+
+.tab-content{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+/* testimonials */
+.testimonials-title span{
+	font-family:'Karla',Arial !important;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+.testimonials-author{
+	font-size:16px;
+	font-family:"Arvo",Arial !important;
+	line-height:24px;
+	font-weight:bold;
+}
+
+.testimonials-content{
+	font-family:'Karla',Arial !important;
+	line-height:18px;
+	font-size:12px;
+}
+
+/* button */
+
+.submit-button,#comment-form input[type=submit]{
+	font-size:12px;
+	line-height:18px;
+	font-weight:bold;
+	font-family:'Arvo',Arial !important;
+	text-transform:uppercase;
+}
+
+.search-button{
+	font-size:12px;
+	line-height:18px;
+	font-weight:bold;
+	font-family:'Arvo',Arial !important;
+	text-transform:uppercase;
+}
+
+a.small-button,.small-button{
+	font-size:12px;
+	line-height:18px;
+	font-weight:bold;
+	font-family:'Arvo',Arial !important;
+	text-transform:uppercase;
+}
+
+a.curver-button,.curver-button{
+	font-size:12px;
+	line-height:18px;
+	font-weight:bold;
+	font-family:'Arvo',Arial !important;
+	text-transform:uppercase;
+}
+
+a.big-button ,.big-button{
+	font-size:18px;
+	line-height:24px;
+	font-weight:bold;
+	font-family:'Arvo',Arial !important;
+	text-transform:uppercase;
+}
+
+a.welcome-button ,.welcome-button{
+	font-size:18px;
+	line-height:24px;
+	font-weight:bold;
+	font-family:'Arvo',Arial !important;
+	text-transform:uppercase;
+}
+
+/* footer */
+
+#footer .footer-widget{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+#footer .footer-widget ul li a{
+	font-size:12px;
+	line-height:24px;
+	font-family:'Karla',Arial !important;
+}
+
+#footer-copyright{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+#footer-right{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+/* widget */
+.sidebar-widget-title span{
+	font-family:'Karla',Arial !important;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+#footer .footer-widget  .sidebar-widget-title span{
+	font-family:'Karla',Arial !important;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+.content .sidebar-widget ul li a{
+	font-family:'Karla',Arial !important;
+}
+
+/* search widget */
+
+.search-input{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+/* tagcloud */
+.tagcloud a{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+/* widget post */
+
+a.widget-post-title{
+	font-family:"Arvo",Arial !important;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+a.widget-post-date{
+	font-family:'Karla',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+
+/* comment widget */
+a.widget-comment-content{
+	font-size:12px;
+	line-height:18px;
+	font-family:'Karla',Arial !important;
+}
+
+a.widget-comment-author{
+	font-size:14px;
+	line-height:18px;
+	font-family:"Arvo",Arial !important;
+	font-weight:bold;
+}
+

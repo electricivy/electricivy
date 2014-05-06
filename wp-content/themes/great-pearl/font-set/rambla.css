@@ -1,0 +1,508 @@
+#body{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+/* header */
+#logo-text{
+	font-size:36px;
+	line-height:36px;
+	font-weight:bold;
+	font-family:"Rambla",Arial;
+}
+
+#main-menu ul li a{
+	font-family:'Rambla',Arial !important;
+	font-size:13px;
+	line-height:18px;
+}
+
+#main-menu ul li li a, #main-menu ul li.current-menu-item li a, #main-menu ul li.current-menu-ancestor li a{
+	font-size:12px;
+	font-family:'ABeeZee',Arial !important;
+	line-height:18px;
+}
+
+/* static content */
+.static-content-container,.flex-caption {
+	font-family:'ABeeZee',Arial !important;
+	font-size:13px;
+	line-height:18px;
+}
+
+.static-content{
+	padding-top:0px;
+}
+
+.static-content-container ul a{
+	font-family:'ABeeZee',Arial !important;
+}
+
+.static-content-container h1 ,.flex-caption h1{
+	font-family:"Rambla",Arial;
+	font-size: 36px;
+	line-height:40px;
+}
+
+.static-content-container h2 ,.flex-caption h2{
+	font-family:"Rambla",Arial;
+	font-size: 30px;
+	line-height:36px;
+}
+
+.static-content-container h3 ,.flex-caption  h3{
+	font-family:"Rambla",Arial;
+	font-size: 24px;
+	line-height:30px;
+}
+
+.static-content-container h4 ,.flex-caption h4{
+	font-family:"Rambla",Arial;
+	font-size: 18px;
+	line-height:24px;
+}
+
+.static-content-container h5 ,.flex-caption h5{
+	font-family:"Rambla",Arial;
+	font-size: 14px;
+	line-height:18px;
+}
+
+.static-content-container h6 ,.flex-caption h6{
+	font-family:"Rambla",Arial;
+	font-size: 12px;
+	line-height:14px;
+}
+
+/* body */
+
+/* index page */
+.container-title span,.container-title a{
+	font-family:'ABeeZee',Arial !important;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+
+.feature-name,.feature-name a{
+	font-family:"Rambla",Arial;
+	font-size:16px;
+	line-height:18px;
+}
+
+.feature-description{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+
+.post-title a{
+	font-family:"Rambla",Arial;
+	line-height:24px;
+	font-size:16px;
+}
+
+.post-excerpt{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+
+/* typography */
+
+.welcome-text1{
+	font-family:"Rambla",Arial;
+	font-size:24px;
+	line-height:36px;
+}
+
+.welcome-text2{
+	font-family:'ABeeZee',Arial !important;
+	font-size:14px;
+	line-height:18px;
+}
+
+h1{
+	font-family:"Rambla",Arial;
+	font-size: 36px;
+	line-height:48px;
+}
+
+h2{
+	font-family:"Rambla",Arial;
+	font-size: 30px;
+	line-height:36px;
+}
+
+h3{
+	font-family:"Rambla",Arial;
+	font-size: 24px;
+	line-height:30px;
+}
+
+h4{
+	font-family:"Rambla",Arial;
+	font-size: 18px;
+	line-height:24px;
+}
+
+h5{
+	font-family:"Rambla",Arial;
+	font-size: 14px;
+	line-height:18px;
+}
+
+h6{
+	font-family:"Rambla",Arial;
+	font-size: 12px;
+	line-height:16px;
+}
+
+blockquote{
+	font-family:"Rambla",Arial;
+}
+
+
+.content li a{
+	font-family:'ABeeZee',Arial !important;
+}
+
+/* inner page */
+h2#page-title{
+	font-family:"Rambla",Arial;
+	font-size:24px;
+	line-height:30px;
+	font-weight:normal;
+}
+
+h3#page-title-sub{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+	font-weight:normal;
+}
+
+.paginate .current{
+	font-family:'ABeeZee',Arial !important;
+	font-size:13px;
+}
+
+.paginate a{
+	font-family:'ABeeZee',Arial !important;
+	font-size:13px;
+}
+
+/* about page */
+.user_profile_name{
+	font-family:"Rambla",Arial;
+	font-size:18px;
+	line-height:24px;	
+}
+
+.user_profile_title{
+	font-family:"Rambla",Arial;
+	font-size:12px;
+	line-height:18px;
+}
+
+.user_profile p{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+
+/* blog page */
+
+.post-entry-title a{
+	font-family:"Rambla",Arial;
+	font-size:18px;
+	line-height:24px;
+}
+
+.post-entry-content{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+.post-meta-entry {
+	font-family:"Rambla",Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+.post-meta-entry a{
+	font-family:"Rambla",Arial !important;
+	font-size:12px;
+	line-height:18px;
+	font-weight:normal;
+}
+
+.post-entry-button a{
+	font-family:"Rambla",Arial !important;
+	line-height:18px;
+	font-size:14px;
+}
+
+/* post list */
+.post-list-title a{
+	font-family:"Rambla",Arial !important;
+	line-height:24px;
+	font-size:16px;
+}
+	
+/* project page */
+.project-cell-title{
+	font-family:"Rambla",Arial;
+	font-size:16px;
+	line-height:24px;
+}
+	
+/* comment section */
+#body .comment-info .fn{
+	font-family:"Rambla",Arial;
+	font-size:16px;
+	line-height:24px;
+}
+
+#body .comment-info .fn a{
+	font-family:"Rambla",Arial;
+	font-size:16px;
+	line-height:24px;
+}
+
+#body .comment-info  .comment-date a{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+.comment-content{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+#body .comment-reply a{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+.comment-notes{
+	font-size:12px;
+	font-family:'ABeeZee',Arial !important;
+	line-height:18px;
+}
+	
+.comment-form-author label , .comment-form-email label , .comment-form-url label , .comment-form-subject label{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+.comment-form-author input , .comment-form-email input , .comment-form-url input , .comment-form-subject input{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+.comment-form-comment textarea{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+/* accordion */
+.accor-title{
+	font-size:14px;
+	line-height:18px;
+	font-family:"Rambla",Arial;
+}
+
+.accor-content{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+/* tabs */
+.tab-title{
+	font-size:14px;
+	line-height:18px;
+	font-family:"Rambla",Arial;
+}
+
+.tab-content{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+/* testimonials */
+.testimonials-title span{
+	font-family:'ABeeZee',Arial !important;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+.testimonials-author{
+	font-size:16px;
+	font-family:"Rambla",Arial;
+	line-height:24px;
+}
+
+.testimonials-content{
+	font-family:'ABeeZee',Arial !important;
+	line-height:18px;
+	font-size:12px;
+}
+
+/* button */
+
+.submit-button,#comment-form input[type=submit]{
+	font-size:12px;
+	line-height:18px;
+	font-family:"ABeeZee",Arial !important;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+.search-button{
+	font-size:12px;
+	line-height:18px;
+	font-family:"ABeeZee",Arial !important;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+a.small-button,.small-button{
+	font-size:12px;
+	line-height:18px;
+	font-family:"ABeeZee",Arial !important;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+a.curver-button,.curver-button{
+	font-size:12px;
+	line-height:18px;
+	font-family:"ABeeZee",Arial !important;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+a.big-button ,.big-button{
+	font-size:18px;
+	line-height:24px;
+	font-family:"ABeeZee",Arial !important;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+a.welcome-button ,.welcome-button{
+	font-size:18px;
+	line-height:24px;
+	font-family:"ABeeZee",Arial !important;
+	text-transform:uppercase;
+	font-weight:bold;
+}
+
+/* footer */
+
+#footer .footer-widget{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+#footer .footer-widget ul li a{
+	font-size:12px;
+	line-height:24px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+#footer-copyright{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+#footer-right{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+/* widget */
+.sidebar-widget-title span{
+	font-family:'ABeeZee',Arial !important;
+	text-transform:uppercase;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+}
+
+#footer .footer-widget  .sidebar-widget-title span{
+	font-family:'ABeeZee',Arial !important;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+
+.content .sidebar-widget ul li a{
+	font-family:'ABeeZee',Arial !important;
+}
+
+/* search widget */
+
+.search-input{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+/* tagcloud */
+.tagcloud a{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+/* widget post */
+
+a.widget-post-title{
+	font-family:"Rambla",Arial;
+	font-size:14px;
+	line-height:18px;
+}
+
+a.widget-post-date{
+	font-family:'ABeeZee',Arial !important;
+	font-size:12px;
+	line-height:18px;
+}
+
+
+/* comment widget */
+a.widget-comment-content{
+	font-size:12px;
+	line-height:18px;
+	font-family:'ABeeZee',Arial !important;
+}
+
+a.widget-comment-author{
+	font-size:14px;
+	line-height:18px;
+	font-family:"Rambla",Arial;
+}
+
